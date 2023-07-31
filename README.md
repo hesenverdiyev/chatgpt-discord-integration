@@ -1,5 +1,6 @@
 # chatgpt-discord-integration
 Using OpenAI ChatGPT as a bot inside Discord channel
+
 Installation :
 1. Clone repository
 2. Run "npm install" command
